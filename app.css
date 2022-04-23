@@ -84,6 +84,10 @@ nav img {
   color: hsl(212, 27%, 19%);
 }
 
+.nav__links li:hover {
+  cursor: pointer;
+}
+
 .hero {
   position: relative;
 }
@@ -189,10 +193,18 @@ footer h2 {
   margin-left: 2em;
 }
 
+.footer__links:hover {
+  cursor: pointer;
+}
+
 .footer__socials {
   padding: 4em;
   display: flex;
   justify-content: center;
+}
+
+.footer__socials img:hover {
+  cursor: pointer;
 }
 
 .footer__socials img + img {
