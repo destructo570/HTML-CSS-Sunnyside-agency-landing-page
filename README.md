@@ -2,7 +2,8 @@
 
 A landing page made with HTML and CSS for an agency.
 
-Techstack
+Techstack and information
 
 - HTML
 - CSS
+- FlexBox and Grid
